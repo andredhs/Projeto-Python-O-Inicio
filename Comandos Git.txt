@@ -1,0 +1,27 @@
+git init: inicializa um novo repositório Git.
+
+git clone: cria uma cópia de um repositório Git existente.
+
+git add: adiciona um ou mais arquivos ao índice do Git, preparando-os para o próximo commit.
+
+git commit: salva as alterações no repositório, criando uma nova versão com uma mensagem de commit descritiva.
+
+git status: exibe o status atual do repositório, mostrando quais arquivos foram modificados ou adicionados.
+
+git log: exibe um histórico detalhado de todos os commits no repositório.
+
+git branch: lista todas as branches disponíveis no repositório.
+
+git checkout: move o HEAD (o ponto atual do repositório) para uma branch ou um commit específico.
+
+git merge: combina duas ou mais branches em uma única branch.
+
+git pull: puxa as alterações mais recentes de um repositório remoto e mescla-as com o repositório local.
+
+git push: envia as alterações locais para um repositório remoto.
+
+git remote: gerencia as conexões com repositórios remotos.
+
+git diff: mostra as diferenças entre os arquivos modificados e a versão anterior.
+
+git remote add origin: adiciona 
